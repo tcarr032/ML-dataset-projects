@@ -18,9 +18,8 @@ objective: Find the leading cause of death overall within the US. From there we 
         - [X] feature scaling
 
 * Classification Task
-    - [ ] Try some classifiers starting with log regression
-    - [ ] Cross-Validation test on the model
-    - [ ] Create Pipeline for the models with the best CVs
+    - [X] Try some classifiers starting with log regression
+    - [X] Cross-Validation test on the model
+    - [X] Create Pipeline for the models with the best CVs
     - [ ] hypertune model as needed
     - [ ] Try to see if it can guess the model without `113 Cause Name` column
-    
