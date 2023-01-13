@@ -24,3 +24,12 @@ objective: Find the leading cause of death overall within the US. From there we 
     - [X] hypertune model as needed
     - [X] Try to see if it can guess the model without `113 Cause Name` column
     - [X] Try more models 
+
+# Top college dataset
+* EDA
+    - [ ] Put data into pandas dataframe
+    - [ ] Find info, mean, medians, and datatypes for each column
+        - [ ] Examine typing, noise, and distribution     
+    - [ ] Deal with outliers or missing data
+    - [ ] Make some correlations for the data and create a heatmap 
+    - [ ] Write up the initial EDA discoveries
