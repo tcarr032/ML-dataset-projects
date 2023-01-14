@@ -27,7 +27,7 @@ objective: Find the leading cause of death overall within the US. From there we 
 
 # Top college dataset
 * EDA
-    - [ ] Put data into pandas dataframe
+    - [X] Put data into pandas dataframe
     - [ ] Find info, mean, medians, and datatypes for each column
         - [ ] Examine typing, noise, and distribution     
     - [ ] Deal with outliers or missing data
