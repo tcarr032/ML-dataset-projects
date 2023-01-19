@@ -41,6 +41,4 @@ objective: Find the leading cause of death overall within the US. From there we 
     - [X] Make traget column, and split the data for train and test set
     - [X] Pipelines
     - [X] try some regressors to find rank and feature importance associated with rank
-    - [ ] draw up some general conclusions based on the dataset
-* Classification Task
-    - [ ] see if it's possible to guess the name of the univiersity 
+    - [X] draw up some general conclusions based on the dataset
